@@ -1,5 +1,6 @@
 <!-- <img width="100%" src="https://i.postimg.cc/SNcDgzwJ/sky-short.png"> -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&color=0:df837e,25:EABBBC,50:E1D1DB,75:BF90A7,100:7A5473&section=header&reversal=false&textBg=false&fontAlign=50">
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&color=0:df837e,25:EABBBC,50:E1D1DB,75:BF90A7,100:7A5473&section=header&reversal=false&textBg=false&fontAlign=50"> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&color=0:0f0f1b,16:565a75,32:c6b7be,50:fafbf6,66:c6b7be,82:565a75,100:0f0f1b&section=header&reversal=false&textBg=false&fontAlign=50">
 <br>
 <br>
 <br>
@@ -39,10 +40,12 @@
 <br>
 <div align="center">
     <a href="mailto:isa.pichini12@gmail.com">
-        <img width=150px src="https://img.shields.io/badge/contact%20me-7A5473?style=for-the-badge&logo=gmail&logoColor=DF837E&labelColor=E1D1DB">
+        <!-- <img width=150px src="https://img.shields.io/badge/contact%20me-7A5473?style=for-the-badge&logo=gmail&logoColor=DF837E&labelColor=E1D1DB"> -->
+        <img width=150px src="https://img.shields.io/badge/contact%20me-565a75?style=for-the-badge&logo=gmail&logoColor=DF837E&labelColor=fafbf6">
     </a>
 </div>
 <br>
 <br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&color=0:df837e,25:EABBBC,50:E1D1DB,75:BF90A7,100:7A5473&section=footer&reversal=false&textBg=false&fontAlign=50">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&color=0:0f0f1b,16:565a75,32:c6b7be,50:fafbf6,66:c6b7be,82:565a75,100:0f0f1b&section=footer&reversal=false&textBg=false&fontAlign=50">
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&color=0:df837e,25:EABBBC,50:E1D1DB,75:BF90A7,100:7A5473&section=footer&reversal=false&textBg=false&fontAlign=50"> -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:df837e,25:EABBBC,50:E1D1DB,75:BF90A7,100:7A5473&section=header&reversal=false&textBg=false&fontAlign=50"> -->
